@@ -1,24 +1,36 @@
-# 📖 Kenji Read Me
+# 📖 Kenji Otaza Read Me
 
 <img src="img/banner.png">
 
 ## 🚀 Live Demo
+
+## 🌐 Website
 - [Live Demo](https://aboutmekenjiotaza.vercel.app/)
-- [Live Demo](https://countdowntimerv2.vercel.app/)
-- [Live Demo](https://followerscelebration.vercel.app/)
-- [Live Demo](https://heykenjibot.vercel.app/)
-- [Live Demo](https://happybirthdaytoyouu.vercel.app/)
-- [Live Demo](https://goodmorningtoyou.vercel.app/)
-- [Live Demo](https://newyearcountdowntimer.vercel.app/)
-- [Live Demo](https://questionyesorno.vercel.app/)
-- [Live Demo](https://busytimecheck.vercel.app/)
-- [Live Demo](https://yestolabel.vercel.app/)
-- [Live Demo](https://yesornogirlversion.vercel.app/)
-- [Live Demo](https://yesornoq.vercel.app/)
 - [Live Demo](https://kenjiotazav4.vercel.app/)
 - [Live Demo](https://kenjiotazav3.vercel.app/)
 - [Live Demo](https://kenjiotazav2.vercel.app/)
 - [Live Demo](https://kenjiotaza.vercel.app/)
+
+## 💖 For Your Love/Crush
+- [Live Demo](https://questionyesorno.vercel.app/)
+- [Live Demo](https://yestolabel.vercel.app/)
+- [Live Demo](https://yesornogirlversion.vercel.app/)
+- [Live Demo](https://yesornoq.vercel.app/)
+
+## 🎉 Celebrations
+- [Live Demo](https://followerscelebration.vercel.app/)
+- [Live Demo](https://happybirthdaytoyouu.vercel.app/)
+- [Live Demo](https://countdowntimerv2.vercel.app/)
+- [Live Demo](https://newyearcountdowntimer.vercel.app/)
+- [Live Demo](https://busytimecheck.vercel.app/)
+
+## 🤖 Kenji Bot
+- [Live Demo](https://heykenjibot.vercel.app/)
+- 
+## 🐱‍🚀 Others
+- [Live Demo](https://goodmorningtoyou.vercel.app/)
+
+
 
 ## 👤 Author
 <p align="left">
